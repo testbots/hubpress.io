@@ -1,6 +1,6 @@
 {
   "meta": {
-    "testbots": "testbots",
+    "username": "testbots",
     "repositoryName": "testbots.github.io",
     "branch": "master"
   },
