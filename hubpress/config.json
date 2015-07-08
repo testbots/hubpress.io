@@ -1,7 +1,7 @@
 {
   "meta": {
-    "testbots": "put your username here",
-    "repositoryName": "put your repository name here",
+    "testbots": "testbots",
+    "repositoryName": "testbots.github.io",
     "branch": "master"
   },
   "theme": {
