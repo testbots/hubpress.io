@@ -1,6 +1,6 @@
 {
   "meta": {
-    "username": "put your username here",
+    "testbots": "put your username here",
     "repositoryName": "put your repository name here",
     "branch": "master"
   },
