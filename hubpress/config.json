@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "testbots",
-    "repositoryName": "testbots.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"testbots","repositoryName":"testbots.github.io","branch":"master"},"site":{"title":"Lol","description":"Lol","url":"https://testbots.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//testbots.github.io/themes/Casper"}}
